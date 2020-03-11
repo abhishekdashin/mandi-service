@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class MandiApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(MandiApplication.class, args);
+		SpringApplication.run(MandiApplication.class, args); 
+		//Test
 	}
 }
