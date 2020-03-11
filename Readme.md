@@ -14,4 +14,4 @@ Execute the following command on the home directory of the service.
 
 Once the server is up and running open the swagger documentation page.
 
- http://localhost:8080/swagger-ui.html
+ http://localhost:8080/swagger-ui.html   
